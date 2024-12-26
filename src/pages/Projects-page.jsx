@@ -22,8 +22,8 @@ const Projects = () => {
                                  src={linksnap}
                                  alt="linksnap_img"/>
                             <h5 className="card-title text-center  text-2xl font-serif font-semibold italic p-2 ">LinkSnap</h5>
-                            <p className="card-text font-serif font-normal  italic p-2">Check out this project at
-                            <a href="https://github.com/ShiviTripathi13/linksnap" target="_blank" rel="noreferrer" className="btn btn-primary underline text-blue-600 p-2 font-serif  text-sm mb-2">Github</a>
+                            <p className="flex justify-center card-text font-serif font-normal  italic p-2">Check out this project at
+                            <a href="https://github.com/ShiviTripathi13/linksnap" target="_blank" rel="noreferrer" className="btn btn-primary underline text-blue-600  font-serif  text-sm ml-2 ">Github</a>
                             </p>
                         </div>
                     </div>
@@ -36,8 +36,8 @@ const Projects = () => {
                                  src={kaayaclique}
                                  alt="kaayaclique_img"/>
                             <h5 className="card-title text-center  text-2xl font-serif font-semibold italic p-2 ">KaayaClique</h5>
-                            <p className="card-text font-serif font-normal  italic p-2">Check out this project at
-                            <a href="https://github.com/ShiviTripathi13/kaayaclique" target="_blank" rel="noreferrer" className="btn btn-primary underline text-blue-600 p-2 font-serif  text-sm mb-2">Github</a>
+                            <p className="flex justify-center card-text font-serif font-normal  italic p-2">Check out this project at
+                            <a href="https://github.com/ShiviTripathi13/kaayaclique" target="_blank" rel="noreferrer" className="btn btn-primary underline text-blue-600  font-serif  text-sm ml-2 ">Github</a>
                             </p>
                         </div>
                     </div>
@@ -50,8 +50,8 @@ const Projects = () => {
                                  src={askit}
                                  alt="asclepius_img"/>
                             <h5 className="card-title text-center  text-2xl font-serif font-semibold italic p-2 ">Askit</h5>
-                            <p className="card-text font-serif font-normal  italic p-2">Check out this project at
-                            <a href="https://github.com/ShiviTripathi13/askit" target="_blank" rel="noreferrer" className="btn btn-primary underline text-blue-600 p-2 font-serif  text-sm mb-2">Github</a>
+                            <p className="flex justify-center card-text font-serif font-normal  italic p-2">Check out this project at
+                            <a href="https://github.com/ShiviTripathi13/askit" target="_blank" rel="noreferrer" className="btn btn-primary underline text-blue-600  font-serif  text-sm ml-2 ">Github</a>
                             </p>
                         </div>
                     </div>
@@ -64,8 +64,8 @@ const Projects = () => {
                                  src={asclepius}
                                  alt="asclepius_img"/>
                             <h5 className="card-title text-center  text-2xl font-serif font-semibold italic p-2 ">Asclepius</h5>
-                            <p className="card-text font-serif font-normal  italic p-2">Check out this project at
-                            <a href="https://github.com/ShiviTripathi13/asclepius" target="_blank" rel="noreferrer" className="btn btn-primary underline text-blue-600 p-2 font-serif  text-sm mb-2">Github</a>
+                            <p className="flex justify-center card-text font-serif font-normal  italic p-2">Check out this project at
+                            <a href="https://github.com/ShiviTripathi13/asclepius" target="_blank" rel="noreferrer" className="btn btn-primary underline text-blue-600  font-serif  text-sm ml-2 ">Github</a>
                             </p>
                         </div>
                     </div>
@@ -79,8 +79,8 @@ const Projects = () => {
                                  src={evquick}
                                  alt="asclepius_img"/>
                             <h5 className="card-title text-center text-2xl font-serif font-semibold italic p-2 ">eVQUICK</h5>
-                            <p className="card-text font-serif font-normal  italic p-2">Check out this project at
-                            <a href="https://github.com/ShiviTripathi13/eVQUICK" target="_blank" rel="noreferrer" className="btn btn-primary underline text-blue-600 p-2 font-serif  text-sm mb-2">Github</a>
+                            <p className="flex justify-center card-text font-serif font-normal  italic p-2">Check out this project at
+                            <a href="https://github.com/ShiviTripathi13/eVQUICK" target="_blank" rel="noreferrer" className="btn btn-primary underline text-blue-600  font-serif  text-sm ml-2 ">Github</a>
                             </p>
                         </div>
                     </div>
